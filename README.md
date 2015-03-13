@@ -1,2 +1,1 @@
-Line 1
-RAMRAMSatyaHi
+RAM
